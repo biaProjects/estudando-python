@@ -1,5 +1,3 @@
-import testando_bibliotecas
-
 numero = random.randint(1, 100)  # O 100 está incluso no sorteio
 
 print("Qual é o seu nome?")
