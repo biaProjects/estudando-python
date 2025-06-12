@@ -1,6 +1,6 @@
-from library.entities.livro import Livro
-from library.entities.usuario import Aluno, Professor
-from library.entities.biblioteca import Biblioteca
+from biblioteca.entities.livro import Livro
+from biblioteca.entities.usuario import Aluno, Professor
+from biblioteca.entities.biblioteca import Biblioteca
 
 # criando livros
 livro1 = Livro("1984", "George Orwell", 1949, "L001")

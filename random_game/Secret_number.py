@@ -1,21 +1,24 @@
-numero = random.randint(1, 100)  # O 100 está incluso no sorteio
+import random
 
-print("Qual é o seu nome?")
-nome = input()
-print("Olá", nome, "Vamos começar nosso jogo para adivinhar o número secreto!")
+number = random.randint(1, 100)  # O 100 está incluso no sorteio
 
-print("Qual seu primeiro palpite? escolha um número de 1 a 100")
-palpite = int(input())
-if palpite == numero:
-    print("Uhuuu,", nome, "você conseguiu adivinhar o número secreto")
+print("What's your name?")
+name = input()
+print("Hey", name, "Let's start our game to guess the secret number!")
+
+print("What's your first guess? Pick a number? Choose a number from 1 to 100")
+guess = int(input())
+if guess == number:
+    print("Uhuuu! Congrats", name + "!!!")
+    print("You guessed the secret number! (" + str(number) + ")")
 else:
-    while palpite != numero:
-        print("ops, não foi dessa vez")
-        if palpite > numero:
-            print("O número secreto é MENOR")
+    while guess != number:
+        print("Ops, you didn't get the secret number...")
+        if guess > number:
+            print("The secret number is LOWER")
         else:
-            print("O número secreto é MAIOR")
-        print("Qual é o seu próximo palpite?")
-        palpite = int(input())
-    print("Parabééns,", nome, "!!!")
-    print("você acertou o número secreto (" + str(numero) + ")")
+            print("The secret number is HIGHER")
+        print("What's your next guess?")
+        guess = int(input())
+    print("Uhuuu! Congrats", name + "!!!")
+    print("You guessed the secret number! (" + str(number) + ")")
