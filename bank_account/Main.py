@@ -1,4 +1,4 @@
-from bankAccount.Account import Account
+from bank_account.Account import Account
 
 print("Initializing your bank account.")
 
