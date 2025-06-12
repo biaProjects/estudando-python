@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b83ad82-afe8-477b-8ed9-28de74e69dac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/calculadora_praticando-condicional-if/Calculadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculadora_praticando-condicional/Calculadora.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculando_fatorial/Com_recursao.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculando_fatorial_e_estudando_recursao/Com_recursao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculando_fatorial/Sem_recursao.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculando_fatorial_e_estudando_recursao/Sem_recursao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/entities/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/entities/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/entities/biblioteca.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/entities/biblioteca.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/entities/livro.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/entities/livro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/entities/usuario.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/entities/usuario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/program/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/program/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto_conta/Account.py" beforeDir="false" afterPath="$PROJECT_DIR$/bankAccount/Account.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto_conta/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/bankAccount/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random_game/Secret_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_game/Secret_number.py" afterDir="false" />
-    </list>
+    <list default="true" id="0b83ad82-afe8-477b-8ed9-28de74e69dac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
