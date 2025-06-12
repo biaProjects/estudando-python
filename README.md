@@ -13,10 +13,10 @@ It’s a space where I’ve practiced basic programming concepts, developed logi
 ##### Repository structure:
 This repository is organized into:
 
-- `bankAccount`
+- `bankAccount`  
 	A project that includes some fundamentals of Object-Oriented Programming (OOP). It contains a class simulating a bank account and a program for basic banking operations.
 
-- `biblioteca` _(library)_
+- `biblioteca` _(library)_  
 	This project was created to practice some basic principles of Object-Oriented Programming (OOP).
 
 - `calculadora_praticando-condicional` _(calculator_practicing-conditionals)_  
@@ -28,11 +28,11 @@ This repository is organized into:
 	_What is recursion?_
 	It is a programming technique where a function calls itself.
 
-- `random_game`
+- `random_game`  
 	This project uses the library `random`.
 	It is a simple game where the user tries to guess the secret number generated randomly. After each guess, the program gives hints indicating if the number is higher or lower.
 
-- `testando_bibliotecas` _(testing_libraries)_
+- `testando_bibliotecas` _(testing_libraries)_  
     Simple experiments using the `webbrowser` and `time` libraries.
 
 ---
@@ -48,7 +48,7 @@ Este é um espaço onde pratiquei conceitos básicos de programação, desenvolv
 ##### Estrutura do repositório:
 Este repositório está organizado em:
 
-- `bankAccount` _(conta bancária)_
+- `bankAccount` _(conta bancária)_  
     Projeto com fundamentos de Programação Orientada a Objetos (POO), incluindo uma classe para simular uma conta bancária e operações básicas.
 
 - `biblioteca`  
